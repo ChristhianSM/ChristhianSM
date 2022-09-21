@@ -73,7 +73,7 @@
 		<img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ChristhianSM&repo=soya&theme=react&border_color=61dafb&border_radius=10">
 	</a>
 	<a align="right" href="https://github.com/ChristhianSM/crud-redux" title="crud-redux">
-		<img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ChristhianSM&repo=crud-redux&theme=react&border_color=61dafb&border_radius=10">
+		<img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ChristhianSM&repo=crud-redux&theme=react&border_color=61dafb&border_radius=10">
 	</a>
 	</a>
 </div>
