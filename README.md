@@ -12,8 +12,6 @@
   Hi, I'm Christhian Silupù Moscol, Computer Engineer and a passionate Fullstack JS Developer from Perú
   <br>
   <br>
-  🔬 I'm currently studying for a master's degree in Atatürk University Computer Engineering Department
-  <br>
   🎓 I graduated from the Computer Engineering Department of La Universidad Nacional de Piura.
   <br>
   💻 I love teaching and continuous learning
